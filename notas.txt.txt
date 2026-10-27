@@ -1,0 +1,5 @@
+Mis notas sobre Git:
+- git init = iniciar repositorio
+- git add = preparar archivos
+- git commit = guardar cambios
+- git push = subir a GitHub
